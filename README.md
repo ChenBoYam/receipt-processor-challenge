@@ -16,7 +16,7 @@ A REST API service that processes receipts and calculates reward points based on
 ### Installation
 1. Clone the repository
 ```
-git clone [repository-url]
+git clone https://github.com/ChenBoYam/receipt-processor-challenge.git
 cd receipt-processor
 ```
 
